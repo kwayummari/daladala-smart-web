@@ -67,7 +67,7 @@ const HeroSection = () => {
           left: 0;
           width: 100%;
           height: 100%;
-          background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/images/hero-banner.jpg');
+          background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/images/hero-banner.png');
           background-size: cover;
           background-position: center;
           z-index: -1;
