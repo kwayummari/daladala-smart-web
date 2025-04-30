@@ -18,7 +18,7 @@ const NotFoundPage = () => {
             <Col md={8} lg={6}>
               <div className="mb-4">
                 <img 
-                  src="/images/logo.svg" 
+                  src="/images/logo.png" 
                   alt="Daladala Smart" 
                   height="50" 
                   className="mb-4" 
