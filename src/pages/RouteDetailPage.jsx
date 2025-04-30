@@ -301,7 +301,6 @@ const RouteDetailPage = () => {
                               <p>{route.description}</p>
                             </div>
                                                   )}
-      // pages/RouteDetailPage.jsx (continued)
                         </div>
                       </div>
                     </Card.Body>
