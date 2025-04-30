@@ -146,7 +146,7 @@ const RegisterPage = () => {
             <Col md={8} lg={7} xl={6}>
               <div className="text-center mb-4">
                 <img 
-                  src="/images/logo.svg" 
+                  src="/images/logo.png" 
                   alt="Daladala Smart" 
                   height="50" 
                   className="mb-3" 

@@ -90,7 +90,7 @@ const LoginPage = () => {
             <Col md={8} lg={6} xl={5}>
               <div className="text-center mb-4">
                 <img 
-                  src="/images/logo.svg" 
+                  src="/images/logo.png" 
                   alt="Daladala Smart" 
                   height="50" 
                   className="mb-3" 
