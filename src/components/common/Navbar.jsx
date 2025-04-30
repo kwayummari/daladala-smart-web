@@ -26,7 +26,7 @@ const Navbar = () => {
       <Container>
         <BootstrapNavbar.Brand as={Link} to="/">
           <img 
-            src="/images/logo.svg" 
+            src="/images/logo.png" 
             alt="Daladala Smart" 
             height="40" 
             className="d-inline-block align-top" 

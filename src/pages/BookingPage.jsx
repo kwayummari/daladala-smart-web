@@ -11,9 +11,9 @@ import {
   Button, 
   Alert, 
   Spinner, 
-  Stepper, 
-  Step, 
-  StepLabel, 
+  // Stepper, 
+  // Step, 
+  // StepLabel, 
   Accordion,
   Badge
 } from 'react-bootstrap';
